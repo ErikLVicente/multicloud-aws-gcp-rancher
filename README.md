@@ -20,17 +20,8 @@
 </center>
 
 
-![DevOps Ninja - Multicloud-Multicluster](doc/img/logo.png)
 
-# UDEMY
 
-![Udemy](doc/logos/udemy-small.png)
-
-Este repositório pertence ao meu curso da Udemy, DevOps Ninja: Multicloud-Multicluster:
-
-https://www.udemy.com/course/multicloud-multicluster-k8s-rancher-traefik-cockroachdb/?referralCode=9AE9624A95C83529212F
-
-Acesse e aproveite o cupom de desconto para usuários do GitHub!
 
 
 
